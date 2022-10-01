@@ -1,6 +1,6 @@
-#TinyEngine Debugging
+# TinyEngine Debugging
 
-#Trying to get TinyEngine to work on an apple silicon (M1) mac.
+# Trying to get TinyEngine to work on an apple silicon (M1) mac.
 
 ## 1. Fixing compile error in example 14
 
