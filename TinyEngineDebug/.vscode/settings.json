@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tinyengine": "cpp",
+        "sstream": "cpp",
+        "unordered_map": "cpp",
+        "image": "cpp"
+    }
+}

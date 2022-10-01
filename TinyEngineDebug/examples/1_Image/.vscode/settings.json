@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "model": "cpp",
+        "shader": "cpp",
+        "texture": "cpp",
+        "image": "cpp",
+        "tinyengine": "cpp",
+        "functional": "cpp",
+        "instance": "cpp",
+        "target": "cpp"
+    }
+}
